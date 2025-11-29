@@ -1,1 +1,1 @@
-so u got enough out of this idc , btw here is the answer : 0xAB32E145 wich in decimal is 2872238405
+so u got enough out of this idc , btw here is the answer : 0xAB32E145 wich in decimal is 2872238405 just kidding , lol it uses rand()
